@@ -5,3 +5,4 @@
 
 ## Team members
 -  Akhitha Tumula
+- Nikitha Kethireddy

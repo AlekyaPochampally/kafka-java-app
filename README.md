@@ -4,6 +4,6 @@
 - Pochampally Alekya
 
 ## Team members
--  Akhitha Tumula
+- Akhitha Tumula [profile link](https://github.com/thumula-akhitha)
 - Nikitha Kethireddy
 - Sumanth Gorantla

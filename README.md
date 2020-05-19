@@ -1,7 +1,7 @@
 # kafka-java-app
 
 ## Team lead
-- Alekya Pochampally
+- Pochampally Alekya
 
 ## Team members
 - 

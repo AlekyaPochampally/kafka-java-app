@@ -6,3 +6,4 @@
 ## Team members
 -  Akhitha Tumula
 - Nikitha Kethireddy
+- Sumanth Gorantla

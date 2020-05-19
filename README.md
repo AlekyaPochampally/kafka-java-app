@@ -1,7 +1,7 @@
 # kafka-java-app
 
 ## Team lead
-- Pochampally Alekya
+- Pochampally Alekya [profile link](https://github.com/AlekyaPochampally)
 
 ## Team members
 - Akhitha Tumula [profile link](https://github.com/thumula-akhitha)

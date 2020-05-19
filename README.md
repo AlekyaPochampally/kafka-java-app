@@ -6,4 +6,4 @@
 ## Team members
 - Akhitha Tumula [profile link](https://github.com/thumula-akhitha)
 - Nikitha Kethireddy
-- Sumanth Gorantla
+- Sumanth Gorantla [profile link] (https://github.com/gorantla96)

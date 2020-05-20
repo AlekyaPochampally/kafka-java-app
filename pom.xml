@@ -54,7 +54,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>com.group1.Producer</mainClass>
+              <mainClass>com.group1.NikithaProducer</mainClass>
             </manifest>
           </archive>
           <descriptorRefs>

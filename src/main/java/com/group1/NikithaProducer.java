@@ -1,15 +1,12 @@
 package com.group1;
-
 import org.apache.kafka.clients.producer.KafkaProducer;
 import org.apache.kafka.clients.producer.ProducerConfig;
 import org.apache.kafka.clients.producer.ProducerRecord;
 
 import java.util.Properties;
+import java.util.Random;
 import java.util.Scanner;
 
-/**
- * Created by sunilpatil on 12/28/15.
- */
 public class NikithaProducer {
     private static Scanner in;
 
@@ -37,16 +34,26 @@ public class NikithaProducer {
   
       // Make our own messages - create your custom logic here
   
-      
+     
         String message = createTips();
         ProducerRecord<String, String> rec = new ProducerRecord<String, String>(topicName, message);
         producer.send(rec);
-     
+    
+  
+      // still allow input from keyboard
+  
+      String line = in.nextLine();
+      while (!line.equals("exit")) {
+        ProducerRecord<String, String> rec1 = new ProducerRecord<String, String>(topicName, line);
+        producer.send(rec1);
+        line = in.nextLine();
+      }
   
       in.close();
       producer.close();
+  
     }
-
+  
     private static String createTips() {
         return "Tips for creating attractive GitHub Profile:\n" 
                 + "Update the code constantly"

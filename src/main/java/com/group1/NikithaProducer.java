@@ -59,7 +59,7 @@ public class NikithaProducer {
                 + "Update the code constantly\n"
                 + "Write clean committed and well-organized code\n"
                 + "Work as a Team\n"
-                + " Contribution\n";
+                + " Contribution";
       }
 
 }

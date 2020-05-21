@@ -2,6 +2,7 @@
 
 ## Team lead
 - Pochampally Alekya [profile link](https://github.com/AlekyaPochampally)
+  - I have created a consumer file and was collabrating with nikitha for executing the job.
 
 ## Team members
 - Akhitha Tumula [profile link](https://github.com/thumula-akhitha)

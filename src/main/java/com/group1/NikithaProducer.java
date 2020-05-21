@@ -56,10 +56,10 @@ public class NikithaProducer {
   
     private static String createTips() {
         return "Tips for creating attractive GitHub Profile:\n" 
-                + "Update the code constantly"
-                + "Write clean committed and well-organized code"
-                + "Work as a Team"
-                + " Contribution";
+                + "Update the code constantly\n"
+                + "Write clean committed and well-organized code\n"
+                + "Work as a Team\n"
+                + " Contribution\n";
       }
 
 }
